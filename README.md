@@ -1,5 +1,5 @@
 # Tic Tac Toe
-<p style="width:100px">
+<p style="width:70px">
 <img src="./public/game-logo.png"/>
 </p>
 
